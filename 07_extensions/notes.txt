@@ -1,0 +1,7 @@
+CSS peek
+Color Highlight
+Image Preview
+HTML CSS Support
+HTML to CSS autocompletion
+Stylelint
+Intellisense for CSS Class Names

@@ -1,0 +1,6 @@
+ways to add color
+    - hex value
+    - rgb value
+    - rgba value
+    - hsl value
+    - hsla value

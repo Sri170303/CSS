@@ -1,0 +1,6 @@
+CSS is written in seperate files and liked with html page
+
+So, we have three ways to style an element
+- Inline CSS
+- Internal CSS
+- External CSS

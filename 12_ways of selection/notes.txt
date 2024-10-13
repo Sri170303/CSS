@@ -1,0 +1,5 @@
+we select using following two ways:
+
+    .karnataka > .female {}
+
+    .karnataka .female {}

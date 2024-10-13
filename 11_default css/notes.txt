@@ -1,0 +1,5 @@
+CSS is added at three level
+
+Browser + OS -> User agent properties
+CSS default -> According to standards
+Custom CSS -> Added by developers

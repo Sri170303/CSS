@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    font-size: 42px;
+}
+
+#tata-subtitle {
+    color: steelblue;
+}
+
+.subtitle {
+    color: blueviolet;
+}
+
+.banner1 {
+    background-color: yellow;
+    background-image: url(./background.jpg);
+}
+
+.banner2 {
+    background-color: aquamarine;
+}

@@ -1,0 +1,6 @@
+browsers like chrome, firefox offer dev tools
+
+inspect has plenty of tools to check how a web page behaves in different cases
+
+We can change CSS of a web page and check how it will look on the browser directly
+
