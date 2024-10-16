@@ -1,0 +1,2 @@
+selector with highest specificity is chosen
+important keyword make the selector to be selected for sure
